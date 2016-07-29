@@ -1,0 +1,3 @@
+[submodule "lib/pgoapi"]
+	path = lib/pgoapi
+	url = git@github.com:tejado/pgoapi
